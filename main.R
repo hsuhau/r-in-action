@@ -164,6 +164,8 @@ plot(dose, drugA, type = "b",
 title(main = "main title", sub = "subtitle",
       xlab="x-axis label", ylab="y-axis label")
 
+# todo
+
 # 3.5 图形的组合
 
 # 3.6 小结
